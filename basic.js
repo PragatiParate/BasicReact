@@ -1,5 +1,6 @@
 console.log("pragati parate...");
-consolre.log("hello......")
+consolre.log("hello......");
+console.log(a+b);
 
 
 
